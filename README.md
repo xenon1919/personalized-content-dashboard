@@ -1,1 +1,1 @@
-# Personalized Content Dashboard using ReactJS
+# Personalized Content Dashboard using React.js
